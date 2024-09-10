@@ -1,0 +1,1 @@
+# bitrix_hl_slider_component
